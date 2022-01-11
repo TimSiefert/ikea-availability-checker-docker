@@ -9,7 +9,7 @@ This repository provides an easy to use docker image for the great tool [ikea-av
 You can run the image with the following command. It should print the currently used version of the [ikea-availability-checker](https://github.com/Ephigenia/ikea-availability-checker) tool.
 
 ```bash
-docker run --rm timsiefert/ikea-availability-checker-docker:1.0.6 -V
+docker run --rm timsiefert/ikea-availability-checker-docker:v1.0.6 -V
 ```
 
 For an detailed overview of possible commands, please see [README of ikea-availability-checker](https://github.com/Ephigenia/ikea-availability-checker#use)
